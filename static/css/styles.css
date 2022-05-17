@@ -1,0 +1,57 @@
+body{
+    background-size: cover;
+}
+
+
+.mainf{
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+    padding: 2rem 1rem;
+    border-radius: 3rem;
+    animation: log 2s;
+}
+
+@keyframes log{
+    from{opacity: 0%;}
+    to{opacity: 100%;}
+}
+
+.navbar-brand{
+    margin-right: 50rem;
+    margin-left: 3rem;
+    font-size: 2rem;
+}
+
+.nav-link{
+    margin-right: 5rem;
+}
+
+nav{
+    margin-top: 2rem;
+}
+
+
+
+.btn{
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.form-floating{
+    margin: 0;
+}
+
+.logo{
+    color: #F55353;
+}
+
+.active{
+    border-bottom: white solid;
+}
+
+.inc{
+    color: red;
+}
