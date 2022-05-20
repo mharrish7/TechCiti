@@ -1,0 +1,103 @@
+body{
+    background-size: cover;
+}
+
+
+.mainf{
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+    padding: 2rem 1rem;
+    border-radius: 1rem;
+    animation: log 2s;
+}
+
+@keyframes log{
+    from{opacity: 0%;}
+    to{opacity: 100%;}
+}
+
+.navbar-brand{
+    margin-left: 3rem;
+    font-size: 2rem;
+}
+
+.nav-link{
+    margin-right: 5rem;
+}
+
+nav{
+    margin-top: 2rem;
+}
+
+
+
+.btn{
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.form-floating{
+    margin: 0;
+}
+
+.logo{
+    color: #F55353;
+}
+
+.active{
+    border-bottom: white solid;
+}
+
+.inc{
+    color: red;
+}
+
+.navbar-toggler{
+    margin-left: auto;
+}
+
+.prompt{
+    color: white;
+    text-align: center;
+    margin-top: 5rem;
+    animation: log 2s;
+}
+
+.user{
+    font-size: 1.2rem;
+    color: white;
+}
+
+.btns{
+    width: auto;
+}
+
+.bt-do{
+   text-align: center;
+   animation: log 2s;
+
+}
+
+.btn-do:hover{
+    border-color: white;
+}
+
+.btn-do:focus{
+    border-color: white;
+    box-shadow: 0 0 0 0.25rem rgba(255,255,255,255);
+}
+
+.arrow{
+    text-align: center;
+    margin-top: 1rem;
+    animation: arrow 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes arrow{
+    from{opacity: 100%; margin-top: 1rem;}
+    to{opacity: 0%;margin-top: 10rem;}
+}
