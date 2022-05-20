@@ -1,8 +1,8 @@
-# TechCiti v1.0
+# TechCiti v1.0 (CosmicDigital)
   Fully functioning login-register system with home page.
 
 # Built with
-  Python,Flask,html,css,javascript,jquery,bootstrap,sqlite,mongodb
+  Python-Flask-html-css-javascript-jquery-bootstrap-sqlite-mongodb
 
 # To Do
   * Add functionality to users
@@ -11,5 +11,5 @@
 # Screenshots
   <img src = 'https://github.com/mharrish7/TechCiti/blob/main/pic/1.png?raw=true' />
   <img src = 'https://github.com/mharrish7/TechCiti/blob/main/pic/3.png?raw=true' />
-  <img src = 'https://github.com/mharrish7/TechCiti/blob/main/pic/2.png?raw=true' />
+  <img src = 'https://github.com/mharrish7/TechCiti/blob/main/pic/5.png?raw=true' />
   <img src = 'https://github.com/mharrish7/TechCiti/blob/main/pic/4.png?raw=true' />
